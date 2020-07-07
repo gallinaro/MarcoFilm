@@ -1,25 +1,25 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: MarcoFilm
+title: MarcoFilm
+description: Un sito dedicato al cinema che vale
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+email: 
+disqus_username: 
 show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+#  - title: About
+#    url: /about
+#  - title: Contact
+#    url: /contact
+#  - title: Feed
+#    url: /feed.xml 
 
 
 # Social Media Settings
@@ -33,9 +33,9 @@ medium_username: medium_username
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
+show_modal_on_finish_post: false
 two_columns_layout: true
 
 
