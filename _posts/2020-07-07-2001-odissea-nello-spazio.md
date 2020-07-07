@@ -6,8 +6,8 @@ subtitle: "\"Utilizzo le mie capacità nel modo più completo, il che, per
   un'entità cosciente, è il massimo che possa sperare.\""
 description: "\"Utilizzo le mie capacità nel modo più completo, il che, per
   un'entità cosciente, è il massimo che possa sperare.\""
-image: ""
-optimized_image: ""
+image: /assets/img/uploads/2001_odissea_nello_spazio.png
+optimized_image: /assets/img/uploads/2001_odissea_nello_spazio.png
 category: film
 tags:
   - fantascienza
@@ -15,7 +15,7 @@ tags:
 author: Gally5
 paginate: false
 ---
-
+![](/assets/img/uploads/2001_odissea_nello_spazio_locandina.png)
 
 L'alba dell'uomo (The Dawn of Man)
 Nell'Africa di quattro milioni di anni fa un gruppo di ominidi, guidati da un capo, sopravvive a fatica in un ambiente arido e ostile. Un giorno, davanti alla loro grotta appare misteriosamente un grande monolito nero; gli ominidi, venendovi a contatto, imparano istintivamente a maneggiare oggetti ed a usarli come utensili e armi per procacciarsi il cibo e per difendere il proprio territorio eliminando i nemici.
