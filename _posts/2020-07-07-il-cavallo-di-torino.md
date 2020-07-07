@@ -1,5 +1,5 @@
 ---
-date: 2020-10-03 18:32:00
+date: 2020-01-03 15:32:00
 layout: post
 title: Il cavallo di Torino
 subtitle: «Vi è un'insistenza patologica nel riprodurre costantemente le stesse
