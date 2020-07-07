@@ -1,5 +1,5 @@
 ---
-date: 2020-07-07 18:53:54
+date: 2020-02-07 18:51:54
 layout: post
 title: "2001: Odissea nello spazio"
 subtitle: "\"Utilizzo le mie capacità nel modo più completo, il che, per
