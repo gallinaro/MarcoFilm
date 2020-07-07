@@ -1,11 +1,16 @@
 name: MarcoFilm
 title: MarcoFilm
-description: Il sito per i film che contano
+description: film
 tags:
-  - ""
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
 show_hero: true
 menu:
   - title: Home
     url: /
 email: ""
 disqus_username: ""
+paginate: 12
