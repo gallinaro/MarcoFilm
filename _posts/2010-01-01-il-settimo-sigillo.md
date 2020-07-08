@@ -18,11 +18,9 @@ author: Gally5
 paginate: true
 ---
 	
-![](/assets/img/uploads/Poste il settimo sigillo.jpg)	
+!\[](/assets/img/uploads/Poste il settimo sigillo.jpg)	
 
-
-
-## Trama in breve	
+## Trama in breve
 
 In un Nord Europa dove imperversano peste e disperazione tornano dalle crociate in Terra Santa il nobile cavaliere Antonius Block e il suo scudiero nichilista Jöns. Sulla spiaggia, al suo arrivo, il cavaliere trova ad attenderlo la Morte, che ha scelto quel momento per portarlo via. Block decide di sfidarla a scacchi, per rimandare la sua dipartita, e la Morte acconsente al rinvio.
 
