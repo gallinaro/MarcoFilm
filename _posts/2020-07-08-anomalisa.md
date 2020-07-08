@@ -12,7 +12,6 @@ tags:
   - drammatico
   - psicologico
   - Charlie Kaufman
-  - "4"
 author: Gally4
 paginate: false
 ---
