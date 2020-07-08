@@ -1,5 +1,5 @@
 ---
-date: 2020-07-08 14:13:41
+date: 2020-01-08 14:13:00
 layout: post
 title: Anomalisa
 subtitle: '"Cosa vuol dire essere umani? Cosa vuol dire essere vivi?"'
@@ -11,6 +11,8 @@ tags:
   - animazione
   - drammatico
   - psicologico
+  - Charlie Kaufman
+  - "4"
 author: Gally4
 paginate: false
 ---
