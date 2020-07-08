@@ -1,5 +1,5 @@
 ---
-date: 2020-07-08 14:26:02
+date: 2020-07-01 14:26:00
 layout: post
 title: Arancia meccanica
 subtitle: '"È buffo come i colori del vero mondo divengano veramente veri
