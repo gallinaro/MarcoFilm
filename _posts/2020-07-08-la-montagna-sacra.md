@@ -1,5 +1,5 @@
 ---
-date: 2020-07-08 13:00:00
+date: 2020-07-05 13:00:00
 layout: post
 title: "La montagna sacra "
 subtitle: "\"rinunciate ai vostri paiceri, ai vostri dolori, agli amici, agli
