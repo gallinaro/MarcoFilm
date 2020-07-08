@@ -14,6 +14,10 @@ tags:
 author: Gally4
 paginate: false
 ---
+![](/assets/img/uploads/anomalisa_locandina.jpg)
+
+# Trama
+
 Nel 2005, Michael Stone, un celebre oratore motivazionale sull'assistenza clienti si reca a Cincinnati per una conferenza riguardo il suo best seller Come posso aiutarti ad aiutarli?. Nonostante la sua fama e una vita all'apparenza completa da marito e padre, Michael è un uomo molto infelice e stressato in quanto soffre di un particolare disturbo mentale che gli fa vedere tutte le persone con un volto simile e che gli fa sentire parlare con la stessa voce maschile.
 
 Giunto a destinazione, Michael alloggia all'hotel Fregoli (una chiara allusione alla sua Sindrome di Fregoli). Qui, dopo aver parlato con la famiglia al telefono, contatta una vecchia fiamma, Bella, con cui ha avuto una relazione e che non vede più da dieci anni. I due si rivedono al bar dell'albergo, ma lei, covando ancora rancore per essere stata abbandonata da lui, presto se ne va, irritata dall'approccio diretto di Michael. L'uomo decide di fare una passeggiata ed entra in un negozio di giocattoli per comprare un regalo per suo figlio Henry, ma si accorge solo quando entra che si tratta di un negozio di giocattoli sessuali. Ciò nonostante, rimane affascinato da una vecchia sex doll meccanica Geisha esposta dietro il negoziante.
