@@ -13,7 +13,6 @@ tags:
   - grottesco
   - drammatico
   - Stanley Kubrick
-  - "4"
 author: Gally4
 paginate: false
 ---
