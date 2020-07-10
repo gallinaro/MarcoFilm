@@ -3,7 +3,7 @@ date: 2020-07-07 17:39:00
 layout: post
 title: Shutter Island
 subtitle: “Credete che la follia sia contagiosa?”
-description: “Credete che la follia sia contagiosa?”
+description: “Credete che la follia sia contagiosa?"
 image: /assets/img/uploads/shutter_island_img.jpg
 optimized_image: /assets/img/uploads/shutter_island_img.jpg
 category: film
