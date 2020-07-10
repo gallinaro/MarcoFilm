@@ -1,9 +1,11 @@
 ---
-date: 2020-07-10 21:39:02
+date: 2020-07-07 17:39:00
 layout: post
 title: Shutter Island
 subtitle: “Credete che la follia sia contagiosa?”
 description: “Credete che la follia sia contagiosa?”
+image: /assets/img/uploads/shutter_island_img.jpg
+optimized_image: /assets/img/uploads/shutter_island_img.jpg
 category: film
 tags:
   - thriller
@@ -12,6 +14,8 @@ tags:
 author: Gally5
 paginate: false
 ---
+![](/assets/img/uploads/shutterisland_locandina.jpg)
+
 ## Trama in breve
 
 Nel 1954, gli agenti federali Edward Daniels, detto Teddy, e la sua spalla Chuck Aule vengono mandati all'Ashecliff Hospital, su Shutter Island, specializzato nella cura di criminali malati di mente. I due agenti devono indagare sulla scomparsa di Rachel Solando, una paziente rinchiusa in una stanza blindata e svanita nel nulla. Il dottor John Cawley, primario dell'ospedale, spiega che Rachel è stata ricoverata dopo aver affogato e ucciso i suoi tre figli, ma, nonostante ciò, lei crede ancora di trovarsi a casa, che i suoi figli siano ancora vivi e che il personale e i pazienti dell'istituto altro non siano che postini, lattai, fattorini e giardinieri.
