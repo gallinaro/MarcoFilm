@@ -21,3 +21,9 @@ paginate: false
 ## Trama in breve
 
 Sara, una vedova sola e dedita al consumo di droghe, spinge anche il figlio sulla strada della tossicodipendenza. I due, cercando di dimenticare la triste realtà in cui vivono, vengono lentamente trascinati in una spirale di angoscia e degradazione.
+
+
+
+## Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b4NLZWvHR9Y?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
