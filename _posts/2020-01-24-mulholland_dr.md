@@ -21,3 +21,9 @@ paginate: false
 ## Trama in breve
 
 In conseguenza di un incidente automobilistico avvenuto sulla Mulholland Drive di Hollywood, Rita perde la memoria. Betty Elms, un'attrice appena arrivata dall'Australia in cerca di gloria, tenta di aiutarla a ritrovare memoria e identità.
+
+
+
+## Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jbZJ487oJlY?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
