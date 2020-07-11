@@ -20,3 +20,9 @@ paginate: false
 ## Trama in breve
 
 In viaggio per Cincinnati, Michael si allontana dalla routine della vita quotidiana e un incontro fortuito lo aiuta a rendersi conto di cosa si è perso, privandosi dell'amore e della felicità.
+
+
+
+## Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQvBRG-o5DY?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
