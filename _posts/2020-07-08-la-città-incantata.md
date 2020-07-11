@@ -20,3 +20,9 @@ paginate: false
 ## Trama in breve
 
 Chihiro è una bambina di dieci anni molto capricciosa e viziata e quando i suoi genitori le dicono che devono trasferirsi, ovviamente reagisce in modo irritante, arrabbiandosi. Durante il viaggio per raggiungere la nuova casa, i tre si fermano in una città fantasma governata da una strega malvagia con al suo seguito antiche divinità e creature magiche
+
+
+
+## Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ByXuk9QqQkk?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
