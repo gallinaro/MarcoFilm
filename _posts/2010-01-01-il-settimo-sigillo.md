@@ -19,8 +19,12 @@ paginate: true
 ---
 ![](/assets/img/uploads/Poste il settimo sigillo.jpg)
 
-	
-
 ## Trama in breve
 
 Antonius Block, nobile cavaliere svedese, che recatosi come crociato in Terrasanta vi ha passato dieci anni della sua vita, ritorna ora nel suo Paese. Sbarcato, trova ad attenderlo la Morte, che ha scelto questo momento per portarselo via. Ma Antonius, che durante gli anni vissuti in Terrasanta, tra battaglie cruente e lotte intime, ha sentito vacillare la propria fede, non vorrebbe morire prima di aver superato la crisi spirituale che lo travaglia.
+
+
+
+## Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mFcP2aGLgZ0?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
