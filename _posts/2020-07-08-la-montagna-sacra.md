@@ -24,3 +24,9 @@ paginate: false
 ## Trama in breve
 
 Un ladro, molto somigliante alla figura di Gesù Cristo, dopo molte disavventure con persone pseudo-religiose, fugge in cima ad una torre che si rivelerà poi un laboratorio di un misterioso alchimista. Dopo aver preso parte a vari riti iniziatici, l'alchimista gli presenta sette persone, le più potenti della Terra, che incarnano nel particolare le industrie del benessere, bellica, artistica, ludica, la polizia, l'imprenditorato edile e il potere economico, che, insieme a loro, rappresentano le nove concezioni di vita indicate dall'Enneagramma della personalità. Insieme dovranno raggiungere la Montagna Sacra, una fantomatica e misteriosa montagna situata sull'inesistente Isola del Loto, dove vi sono nove saggi che conoscono il segreto dell'immortalità. Il loro scopo è di eliminarli e di prendere il loro posto, ma una volta arrivati in cima scopriranno una sconcertante verità: trovano Alejandro Jodorowsky che dice: "Questo è solo un film, qui non c'è l'immortalità!".
+
+
+
+## Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmR0vi0ifzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
