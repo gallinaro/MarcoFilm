@@ -17,7 +17,7 @@ tags:
 author: Gally5
 paginate: true
 ---
-![](/assets/img/uploads/danza morte il settimo sigillo.jpg)
+![](/assets/img/uploads/Poste il settimo sigillo.jpg)
 
 	
 
