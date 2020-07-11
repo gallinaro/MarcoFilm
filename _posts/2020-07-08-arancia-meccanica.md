@@ -21,3 +21,9 @@ paginate: false
 ## Trama in breve
 
 In cerca di emozioni forti, Alex quotidianamente compie azioni criminali. Viene arrestato e sottoposto ad un trattamento che lo condiziona alla non violenza. Uscito di galera tutte le persone che hanno subito da lui violenze gli si ritorcono contro.
+
+
+
+## Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WYPCw1YQeOU?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
