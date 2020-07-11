@@ -20,3 +20,9 @@ paginate: false
 ## Trama in breve
 
 Il dottor Bowman viene inviato nello spazio con altri astronauti a studiare un monolite nero. Durante il viaggio, HAL, il computer di bordo dell'astronave, comincia a disobbedire agli ordini e ciò porta alla resa dei conti tra uomo e macchina.
+
+
+
+## Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ivPu3t2j4Fg?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
