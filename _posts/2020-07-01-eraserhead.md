@@ -22,3 +22,7 @@ paginate: false
 ## Trama in breve
 
 Henry è un uomo d'onore anche se a tratti codardo. Quando la sua ragazza Mary X rimane incinta, lui si prende cura del bambino nonostante il compito sia molto più arduo del previsto.
+
+## Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oK-2_OsBe0s?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
