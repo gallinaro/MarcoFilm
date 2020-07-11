@@ -22,3 +22,9 @@ paginate: false
 ## Trama in breve
 
 Stati Uniti d'America, 1970. Jack è un ingegnere psicopatico con tendenze ossessivo-compulsive. Dopo aver ucciso una donna che gli aveva chiesto soccorso per strada, si convince di dover continuare ad uccidere per raggiungere la perfezione. Ogni suo omicidio deve essere un'opera d'arte, sempre più complessa e ingegnosa. Inizia così una partita a scacchi contro la polizia, lunga dodici anni, condotta dal più astuto e spietato omicida seriale.
+
+
+
+## Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nE9CGIvPNnU?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
