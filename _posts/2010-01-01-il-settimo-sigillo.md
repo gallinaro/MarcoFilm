@@ -17,19 +17,10 @@ tags:
 author: Gally5
 paginate: true
 ---
+![](/assets/img/uploads/Poste il settimo sigillo.jpg)
+
 	
-!\[](/assets/img/uploads/Poste il settimo sigillo.jpg)	
 
 ## Trama in breve
 
-In un Nord Europa dove imperversano peste e disperazione tornano dalle crociate in Terra Santa il nobile cavaliere Antonius Block e il suo scudiero nichilista Jöns. Sulla spiaggia, al suo arrivo, il cavaliere trova ad attenderlo la Morte, che ha scelto quel momento per portarlo via. Block decide di sfidarla a scacchi, per rimandare la sua dipartita, e la Morte acconsente al rinvio.
-
-Durante il rinvio concessogli dalla Morte, Antonius e il suo scudiero Jons incontrano parecchie persone. Molti, presi dalla paura della morte, si sottopongono a violente pratiche per l'espiazione dei propri peccati, altri inseguono gli ultimi piaceri prima della fine. Jons salva anche una donna da Raval, un uomo che dieci anni prima aveva convinto il cavaliere a intraprendere la crociata.
-
-I due assistono anche ad uno spettacolo teatrale messo in scena da dei saltimbanchi guidati dall'attore-manager Skat, che durante la rappresentazione, fuggirà con la moglie di un fabbro.
-
-Il cavaliere s'imbatte poi proprio nella famiglia di saltimbanchi abbandonata da Skat: Jof, Mia e il loro piccolino Mikael. La famiglia non sembra accorgersi della tragedia che li circonda, uniti solo dall'amore reciproco e da un sincero rispetto. Questo incontro aiuterà Antonius a mettere da parte la sua angosciosa ricerca di Dio e di conseguenza accetterà il suo destino non prima di un ultimo gesto significativo: salvare dalla Morte la famigliola.
-
-Dopo aver distratto la Morte per permettere a Jof, Mia e Mikael la fuga, il cavaliere raggiunge il suo castello, dove si ricongiunge con la moglie Karin e dove gusta un ultimo banchetto con i suoi compagni di viaggio: il fido scudiero, la donna che questi ha salvato, il fabbro e sua moglie, prima che la Morte venga a prenderli.
-
-Nel finale il saltimbanco Jof ha una visione, su una collina distante vede il cavaliere, lo scudiero, il fabbro e la moglie, Raval e Skat, guidati dalla Morte in una "danza macabra".
+Antonius Block, nobile cavaliere svedese, che recatosi come crociato in Terrasanta vi ha passato dieci anni della sua vita, ritorna ora nel suo Paese. Sbarcato, trova ad attenderlo la Morte, che ha scelto questo momento per portarselo via. Ma Antonius, che durante gli anni vissuti in Terrasanta, tra battaglie cruente e lotte intime, ha sentito vacillare la propria fede, non vorrebbe morire prima di aver superato la crisi spirituale che lo travaglia.
